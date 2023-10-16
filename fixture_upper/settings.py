@@ -51,7 +51,7 @@ CORS_ORIGIN_WHITELIST = (
     'http://127.0.0.1:3000',
     'http://localhost:5173',
     'http://localhost:4173',
-    'https://fixture-upper.netlify.app/'
+    'https://fixture-upper.netlify.app'
 )
 
 MIDDLEWARE = [
