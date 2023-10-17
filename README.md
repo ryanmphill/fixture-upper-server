@@ -2,7 +2,7 @@
 
 This API currently has one job, and one job only: convert standard JSON data into Django fixtures that can be used to seed a database. 
 
-The API is mostly designed to be used with the [Fixture Upper Client](https://github.com/ryanmphill/fixture-upper) as a part [Fixture Upper App](https://fixture-upper.netlify.app/), but feel free to use it with Postman as well!
+The API is mostly designed to be used with the [Fixture Upper Client](https://github.com/ryanmphill/fixture-upper) as a part of the [Fixture Upper App](https://fixture-upper.netlify.app/), but feel free to use it with Postman as well!
 
 ![Postman Demo](./public/fixture-upper-postman-demo.gif)
 
